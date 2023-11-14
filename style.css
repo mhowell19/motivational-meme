@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.25rem;
+  } 
+
+#poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 150px;
+    text-align: center;
+    letter-spacing: 0.05rem;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+  }
+
+.walgreens {
+    border: 5px solid white;
+    width: 100%;
+  }
